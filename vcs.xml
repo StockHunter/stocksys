@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/adasniff/proxypool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chenkehua/pythonscience.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/proxyPool2" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/pythonLearn/git/python金融大数据分析" />
   </component>
 </application>
