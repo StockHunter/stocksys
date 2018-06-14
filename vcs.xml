@@ -54,8 +54,16 @@
           <option name="url" value="https://github.com/litaotao/IPython-Dashboard.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:StockHunter/vnpy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/StockHunter/vnpy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/pythonLearn/git/flask" />
+    <option name="cloneParentDir" value="$USER_HOME$/Downloads/pythonPro/vnpy" />
   </component>
 </application>
